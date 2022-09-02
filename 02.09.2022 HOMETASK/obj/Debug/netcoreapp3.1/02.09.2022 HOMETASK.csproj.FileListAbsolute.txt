@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\02.09.2022 HOMETASK\02.09.2022 HOMETASK\obj\Debug\netcoreapp3.1\02.09.2022 HOMETASK.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\02.09.2022 HOMETASK\02.09.2022 HOMETASK\obj\Debug\netcoreapp3.1\02.09.2022 HOMETASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\02.09.2022 HOMETASK\02.09.2022 HOMETASK\obj\Debug\netcoreapp3.1\02.09.2022 HOMETASK.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\02.09.2022 HOMETASK\02.09.2022 HOMETASK\obj\Debug\netcoreapp3.1\02.09.2022 HOMETASK.AssemblyInfo.cs
+C:\Users\user\source\repos\02.09.2022 HOMETASK\02.09.2022 HOMETASK\obj\Debug\netcoreapp3.1\02.09.2022 HOMETASK.csproj.CoreCompileInputs.cache
